@@ -1,11 +1,11 @@
 {
-    "login": "",
-    "password": "",
+    "login": "Your login",
+    "password": "Your password",
     "max_time": "1000",
     "min_time": "1000",
     "sleep_time":"9",
     "sleep_time_short":"2",
     "count":"5",
-    "channel_url":"https://www.mql5.com/en/channels/01449d04a66bda01",
-    "blackList": "qregukujej"
+    "channel_url":"Your channel URL",
+    "blackList": "the name of the person you want to bloc "
 }
